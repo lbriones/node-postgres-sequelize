@@ -1,0 +1,23 @@
+{
+  "development": {
+    "username": "root",
+    "password": "lagwagon",
+    "database": "demo_development",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "test": {
+    "username": "root",
+    "password": "lagwagon",
+    "database": "demo_test",
+    "host": "localhost",
+    "dialect": "mysql"
+  },
+  "production": {
+    "username": "root",
+    "password": "lagwagon",
+    "database": "demo_production",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
